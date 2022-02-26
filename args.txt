@@ -1,0 +1,7 @@
+python train.py --raw-dir /home/mt/dgl-master/examples/pytorch/evolveGCN/Elliptic/elliptic_bitcoin_dataset/ --processed-dir /home/mt/dgl-master/examples/pytorch/evolveGCN/Elliptic/processed/
+
+python train.py --dataset elliptic 
+
+python train.py --dataset wikipedia
+
+python train.py --dataset reddit
